@@ -1,0 +1,15 @@
+D:\GB_C-SharpDeveloper\01-FinalTest\bin\Debug\net7.0\FinalTest.exe
+D:\GB_C-SharpDeveloper\01-FinalTest\bin\Debug\net7.0\FinalTest.deps.json
+D:\GB_C-SharpDeveloper\01-FinalTest\bin\Debug\net7.0\FinalTest.runtimeconfig.json
+D:\GB_C-SharpDeveloper\01-FinalTest\bin\Debug\net7.0\FinalTest.dll
+D:\GB_C-SharpDeveloper\01-FinalTest\bin\Debug\net7.0\FinalTest.pdb
+D:\GB_C-SharpDeveloper\01-FinalTest\obj\Debug\net7.0\FinalTest.csproj.AssemblyReference.cache
+D:\GB_C-SharpDeveloper\01-FinalTest\obj\Debug\net7.0\FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB_C-SharpDeveloper\01-FinalTest\obj\Debug\net7.0\FinalTest.AssemblyInfoInputs.cache
+D:\GB_C-SharpDeveloper\01-FinalTest\obj\Debug\net7.0\FinalTest.AssemblyInfo.cs
+D:\GB_C-SharpDeveloper\01-FinalTest\obj\Debug\net7.0\FinalTest.csproj.CoreCompileInputs.cache
+D:\GB_C-SharpDeveloper\01-FinalTest\obj\Debug\net7.0\FinalTest.dll
+D:\GB_C-SharpDeveloper\01-FinalTest\obj\Debug\net7.0\refint\FinalTest.dll
+D:\GB_C-SharpDeveloper\01-FinalTest\obj\Debug\net7.0\FinalTest.pdb
+D:\GB_C-SharpDeveloper\01-FinalTest\obj\Debug\net7.0\FinalTest.genruntimeconfig.cache
+D:\GB_C-SharpDeveloper\01-FinalTest\obj\Debug\net7.0\ref\FinalTest.dll
